@@ -1,4 +1,3 @@
-# PRODIGY_DS_01
 # World Population Analysis (2001-2022)
 This project examines global population trends using Python for data analysis and visualization. With a dataset spanning 16 years, it provides valuable insights into population dynamics across various countries and regions.
 
