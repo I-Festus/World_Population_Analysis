@@ -66,8 +66,8 @@ Created bar charts and stacked charts to visualize the distribution of variables
 # Conclusion 
 This analysis offered a comprehensive understanding of population dynamics across various countries and regions. It serves as a foundation for deeper exploration and predictive modeling within the data science workflow.
 
-Thank you for reviewing my submission!
+# Thank you
 
-# Contact
-- Linkedln: http://www.linkedin.com/in/festus-ijabani-159585293
-- Email: ijabanifestus01@gmail.com
+For more information, you can contact me
+
+![1744659](https://github.com/user-attachments/assets/24af0f89-50ce-43b0-b73b-bcbf57b4f542)
